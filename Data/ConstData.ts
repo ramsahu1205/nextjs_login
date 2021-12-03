@@ -1,0 +1,1 @@
+export let COMPANY_NAME="USER LOGIN"
