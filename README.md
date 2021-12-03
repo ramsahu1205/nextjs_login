@@ -6,7 +6,8 @@ First, run the development server:
 npm install
 npm run dev
 ```
-
+## Login User detail
+  Add or modify  user in /Data/user.ts file
 ## Login api detail
 Dir path:- page/api/login
 ```bash    
