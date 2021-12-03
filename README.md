@@ -6,6 +6,8 @@ First, run the development server:
 npm install
 npm run dev
 ```
+
+now open http://localhost:3000
 ## Login User detail
   Add or modify  user in /Data/user.ts file
 ## Login api detail
@@ -32,4 +34,3 @@ Failure response
       message:"authentication failed."
     }  
 ```
-
